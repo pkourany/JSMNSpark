@@ -1,5 +1,6 @@
 //#ifndef __JSMN_H_
 //#define __JSMN_H_
+#include "application.h"
 
 /**
  * JSON type identifier. Basic types are:
